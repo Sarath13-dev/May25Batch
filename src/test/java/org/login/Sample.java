@@ -35,8 +35,13 @@ public class Sample {
 		for(int i=0; i<courses.size(); i++) {
 			System.out.println(courses.get(i));
 		}
+		System.out.println("Developers Work");
+		System.out.println("Developer New Feature");
 		System.out.println("QA Work");
 		System.out.println("Tester");
+
+		
+
 	}
 
 }
