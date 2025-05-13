@@ -37,6 +37,11 @@ public class Sample {
 		}
 		System.out.println("Developers Work");
 		System.out.println("Developer New Feature");
+		System.out.println("QA Work");
+		System.out.println("Tester");
+
+		
+
 	}
 
 }
